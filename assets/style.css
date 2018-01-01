@@ -1,0 +1,60 @@
+body{
+	font: 18px arial; sans-serif;
+	background: #d8be5f;
+}
+
+
+
+#search-input{
+	width: 200px;
+	font-size: large;
+}
+
+
+#searches{
+	width:40px;
+
+}
+
+form{
+	width: 30%;
+	float:left;
+	padding: 30px;
+	margin-left: 2rem;
+}
+
+label{
+	margin-left: 5rem;
+	display: block;
+	font-size: larger;
+	margin-bottom: 20px;
+}
+input[Type="text"]{
+	margin-bottom: 8px;
+	width:100%;
+	font-size: large;
+	height: 20px;
+	margin-left: 5rem;
+	border-radius: 8px;
+}
+
+
+button{
+float:right;
+	margin:20px 20px 10px 20px;
+	background: red;
+	border-radius: 8px;
+	padding: 8px ;
+	box-shadow: 2px 2px 4px #eee;
+	cursor: pointer;
+}
+
+input[type="submit"]{
+	float:right;
+	background: red;
+	border-radius: 8px;
+	padding: 5px;
+	margin: 5px 100px 10px 10px;
+	box-shadow: 2px 2px 4px #eee;
+	cursor: pointer;
+}
